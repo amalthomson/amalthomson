@@ -73,8 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/amalthomson/amalthomson/main/output/snake.yml" alt="Snake animation" />
-
 ###
 
 <div align="center">
