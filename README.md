@@ -6,7 +6,7 @@
 
 ###
 
-<p>I am a motivated and dedicated individual with strong technical skills in mobile development, web development and software engineering. My expertise includes proficiency in Flutter, JavaScript,  React,PHP, Firebase & MySql, MongoDB, and other related technologies. I have experience building robust mobile applications, web applications and a passion for learning new technologies to enhance my skills further.</p>p
+<p>I am a motivated and dedicated individual with strong technical skills in mobile development, web development and software engineering. My expertise includes proficiency in Flutter, JavaScript,  React,PHP, Firebase & MySql, MongoDB, and other related technologies. I have experience building robust mobile applications, web applications and a passion for learning new technologies to enhance my skills further.</p>
 
 ###
 
