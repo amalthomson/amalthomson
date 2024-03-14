@@ -6,6 +6,10 @@
 
 ###
 
+<p>I am a motivated and dedicated individual with strong technical skills in mobile development, web development and software engineering. My expertise includes proficiency in Flutter, JavaScript,  React,PHP, Firebase & MySql, MongoDB, and other related technologies. I have experience building robust mobile applications, web applications and a passion for learning new technologies to enhance my skills further.</p>p
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amalthomson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amalthomson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
