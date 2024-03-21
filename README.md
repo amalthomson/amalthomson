@@ -61,13 +61,13 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/amalthomson/count.svg?"  />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amalthomson&" alt="amalthomson" /></p>
 </div>
 
 ###
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amalthomson&" alt="amalthomson" /></p>
+  <img src="https://profile-counter.glitch.me/amalthomson/count.svg?"  />
 </div>
 
 ###
