@@ -18,12 +18,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalthomson&label=Profile%20views&color=0e75b6&style=flat" alt="amalthomson" /> </p>
 
-<center>
+<div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalthomson" alt="amalthomson" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amal_thomson" target="blank"><img src="https://img.shields.io/twitter/follow/amal_thomson?logo=twitter&style=for-the-badge" alt="amal_thomson" /></a> </p>
 
-</center>
+</div>
 
 ###
 
@@ -67,6 +67,8 @@
 
 ###
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amalthomson&" alt="amalthomson" /></p>
+</div>
 
 ###
