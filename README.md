@@ -10,6 +10,14 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amalthomson&label=Profile%20views&color=0e75b6&style=flat" alt="amalthomson" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalthomson" alt="amalthomson" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/amal_thomson" target="blank"><img src="https://img.shields.io/twitter/follow/amal_thomson?logo=twitter&style=for-the-badge" alt="amal_thomson" /></a> </p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amalthomson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amalthomson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -82,5 +90,13 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/amalthomson/count.svg?"  />
 </div>
+
+###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amalthomson&show_icons=true&locale=en&layout=compact" alt="amalthomson" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalthomson&show_icons=true&locale=en" alt="amalthomson" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amalthomson&" alt="amalthomson" /></p>
 
 ###
