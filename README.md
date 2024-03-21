@@ -8,6 +8,14 @@
 
 <p>I am a motivated and dedicated individual with strong technical skills in mobile development, web development and software engineering. My expertise includes proficiency in Flutter, JavaScript,  React,PHP, Firebase & MySql, MongoDB, and other related technologies. I have experience building robust mobile applications, web applications and a passion for learning new technologies to enhance my skills further.</p>
 
+- 🔭 I’m currently working on **etherNotes**
+
+- 🌱 I’m currently learning **Flutter, React.JS, Node.JS, Blockchain, Firebase etc.**
+
+- 👯 I’m looking to collaborate on [FarmConnect](https://github.com/amalthomson/ajc22mca_project/tree/main/Main%20Project)
+
+- 📫 How to reach me **namalthomson@gmail.com**
+
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalthomson&label=Profile%20views&color=0e75b6&style=flat" alt="amalthomson" /> </p>
