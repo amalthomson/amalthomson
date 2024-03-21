@@ -20,10 +20,10 @@
 
 <div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalthomson" alt="amalthomson" /></a> </p>
+</div>
 
 <p align="left"> <a href="https://twitter.com/amal_thomson" target="blank"><img src="https://img.shields.io/twitter/follow/amal_thomson?logo=twitter&style=for-the-badge" alt="amal_thomson" /></a> </p>
 
-</div>
 
 ###
 
