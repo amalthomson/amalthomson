@@ -24,7 +24,6 @@
 
 <p align="left"> <a href="https://twitter.com/amal_thomson" target="blank"><img src="https://img.shields.io/twitter/follow/amal_thomson?logo=twitter&style=for-the-badge" alt="amal_thomson" /></a> </p>
 
-
 ###
 
 <div align="center">
@@ -70,5 +69,9 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amalthomson&" alt="amalthomson" /></p>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/amalthomson/amalthomson/output/snake.svg" alt="Snake animation" />
 
 ###
