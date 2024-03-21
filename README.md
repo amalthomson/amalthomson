@@ -55,6 +55,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/amalthomson/count.svg?"  />
+</div>
+
 ###
 
 <br clear="both">
