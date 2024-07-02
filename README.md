@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **etherNotes, [FarmConnect](https://github.com/amalthomson/ajc22mca_project/tree/main/Main%20Project)**
 
-- 🌱 I’m currently learning **Flutter, React.JS, Node.JS, Blockchain, Firebase etc.**
+- 🌱 I’m currently learning **AWS, Flutter, React.JS, Node.JS, JavaScript, TypeScript, Blockchain, Firebase etc.**
 
 - 📫 How to reach me **namalthomson@gmail.com**
 
