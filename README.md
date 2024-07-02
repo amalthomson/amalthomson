@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Pursuing MCA from Amal Jyothi College of Engineering, Kanjirapally</p>
+<p align="left">MCA Graduate from Amal Jyothi College of Engineering, Kanjirapally</p>
 
 ###
 
